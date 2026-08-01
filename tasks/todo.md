@@ -5,5 +5,5 @@
 - [x] Specify observable behavior and non-goals.
 - [x] Build the key-only environment coverage matrix.
 - [x] Verify the complete product and signature.
-- [ ] Commit and push the private repository.
-- [ ] Record final portfolio evidence.
+- [x] Commit and push the private repository.
+- [x] Record final portfolio evidence.
