@@ -4,6 +4,8 @@ EnvParity compares environment-variable references in source code with a committ
 
 The product is for Next.js and Vercel teams reviewing configuration before release. The free workbench handles one source sample. Customers, completed payments, and revenue remain unverified.
 
+![EnvParity on load: the screen that compares environment variable names against a committed contract](docs/screenshot.png)
+
 ## Local setup
 
 Requirements: Node.js 20.9 or later and pnpm 11.
