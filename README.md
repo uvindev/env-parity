@@ -2,7 +2,7 @@
 
 EnvParity compares environment-variable references in source code with a committed contract and value-free development, preview, and production key lists. It reports missing scopes, undocumented usage, stale contract entries, and suspicious `NEXT_PUBLIC_` names, then generates a deterministic `env-parity.json` file containing key names only.
 
-The product is for Next.js and Vercel teams reviewing configuration before release. The free workbench handles one source sample. A proposed Team tier adds repository-wide extraction, branch-specific policies, reviewed exceptions, and contract history at `[TARGET]` $15 per team/month. Customers, completed payments, and revenue remain unverified.
+The product is for Next.js and Vercel teams reviewing configuration before release. The free workbench handles one source sample. Customers, completed payments, and revenue remain unverified.
 
 ## Local setup
 
